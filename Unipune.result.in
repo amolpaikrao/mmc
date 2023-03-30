@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Mirrored from onlineresults.unipune.ac.in/Result/Dashboard/ViewResult?PatternName=4TCfMwGsWxEmjyywaHIAWF1RDY416NiYNq2GynAEUprZ3e2%2BPcjzN9zQftDhMhOD&PatternId=WIXRFIegxSLsCOR6DwCsIg%3D%3D by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 14 Mar 2023 16:30:11 GMT -->
+<!-- Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="shortcut icon" href="https://onlineresults.unipune.ac.in/Content/Images/unipun.png" />
+    <title>Savitribai Phule Pune University Online Result</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fontawesome.com/icons/arrow-right-from-bracket?s=solid" rel="stylesheet" />
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="https://onlineresults.unipune.ac.in/Content/alertifyjs/alertify.min.css" rel="stylesheet" />
+    <link href="https://onlineresults.unipune.ac.in/Content/alertifyjs/themes/default.min.css" rel="stylesheet" />
+
+    <link href="https://onlineresults.unipune.ac.in/Content/plugins/iCheck/icheck-bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet"
+        href="https://onlineresults.unipune.ac.in/Content/plugins/font-awesome/css/font-awesome.min.css">
+    <link href="https://onlineresults.unipune.ac.in/Content/plugins/ionicons/css/ionicons.min.css" rel="stylesheet"
+        type="text/css">
+    <link href="https://onlineresults.unipune.ac.in/Content/dist/css/adminlte.min.css" rel="stylesheet">
+    <link href="https://onlineresults.unipune.ac.in/Content/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- daterange picker -->
+    <link rel="stylesheet" href="https://onlineresults.unipune.ac.in/plugins/daterangepicker/daterangepicker.css">
+    <script src="https://onlineresults.unipune.ac.in/Content/Scripts/jquery-1.7.1.min.js"></script>
+    <script src="https://onlineresults.unipune.ac.in/Content/Scripts/jquery.validate.min.js"></script>
+    <script src="https://onlineresults.unipune.ac.in/Content/Scripts/jquery.validate.unobtrusive.min.js"></script>
+    <script src="https://onlineresults.unipune.ac.in/Content/Scripts/jquery-ui-1.8.20.js"></script>
+    <script src="https://onlineresults.unipune.ac.in/Content/plugins/jquery/jquery.min.js"></script>
+    <script src="https://onlineresults.unipune.ac.in/Content/Custom/popper.min.js"></script>
+    <script src="https://onlineresults.unipune.ac.in/Content/plugins/bootstrap/js/bootstrap.min.js"></script>
+    <script src="https://onlineresults.unipune.ac.in/Content/dist/js/adminlte.min.js"></script>
+    <link href="https://onlineresults.unipune.ac.in/Content/Custom/UserDefined.css" rel="stylesheet" />
+    <!-- Datatable -->
+    <link href="https://onlineresults.unipune.ac.in/Content/Custom/datatables.net-bs/css/dataTables.bootstrap.min.css"
+        rel="stylesheet">
+    <link href="https://onlineresults.unipune.ac.in/Content/plugins/datatables/jquery.dataTables.min.css"
+        rel="stylesheet">
+    <script
+        src="https://onlineresults.unipune.ac.in/Content/Custom/datatables.net-bs/js/dataTables.bootstrap.min.js"></script>
+    <script
+        src="https://onlineresults.unipune.ac.in/Content/Custom/datatables.net/js/jquery.dataTables.min.js"></script>
+    <script src="https://onlineresults.unipune.ac.in/dist/js/demo.js"></script>
+    <!-- date-range-picker -->
+    <script src="https://onlineresults.unipune.ac.in/plugins/daterangepicker/daterangepicker.js"></script>
+    <link href="http://cdn.rawgit.com/davidstutz/bootstrap-multiselect/master/dist/css/bootstrap-multiselect.css"
+        rel="stylesheet" type="text/css" />
+    <script
+        src="http://cdn.rawgit.com/davidstutz/bootstrap-multiselect/master/dist/js/bootstrap-multiselect.js"></script>
+
+
+    <script src="https://onlineresults.unipune.ac.in/scripts/jquery-1.12.4.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.css" rel="stylesheet" />
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('[data-toggle="tooltip"]').tooltip({
+                boundary: "window"
+            });
+
+            alertify.set('notifier', 'position', 'top-right');
+        });
+    </script>
+</head>
+
+<body class="hold-transition sidebar-mini" style="font-size:small">
+    <div class="wrapper">
+        <!-- Navbar -->
+        <nav class="main-header navbar navbar-expand navbar-fixed-top bg-white navbar-light border-bottom elevation-1">
+            <!-- Left navbar links -->
+            <ul class="navbar-nav" style="font-size:16px">
+                <li class="nav-item">
+                    <a class="nav-link" data-widget="pushmenu" href="#"><i class="fa fa-bars"></i></a>
+                </li>
+
+            </ul>
+            <span class="projetheading ml-2"> Online Result Display System </span>
+
+
+            <!-- Right navbar links -->
+
+
+
+
+        </nav>
+        <!-- /.navbar -->
+        <!-- Main Sidebar Container -->
+        <aside class="main-sidebar sidebar-dark-info elevation-4">
+            <!-- Brand Logo -->
+            <a class="brand-link">
+
+
+                <img src="https://onlineresults.unipune.ac.in/Content/Images/University_Logo.jpg"
+                    class="brand-image img-circle elevation-3" />
+
+                <span class="brand-text font-weight-heavy ml-2" style="color: white;font-size: large"
+                    title="Savitribai Phule Pune University">
+                    <marquee>Online Result Display System</marquee>
+                </span>
+                <span class="brand-text font-weight-heavy ml-2" style="color: white">
+
+                </span>
+            </a>
+            <!-- Sidebar -->
+            <div class="sidebar">
+                <!-- Sidebar Menu -->
+                <nav class="mt-2">
+                    <ul></ul>
+                    <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu"
+                        data-accordion="false">
+                        <li class="nav-item mt-3">
+
+                            <a class="nav-link elevation-2" style="color: #fff; background-color: #117A65">
+                                <p>
+                                    <i class="fa fa-user-o nav-icon">
+                                    </i>&nbsp;Dashboard
+                                </p>
+
+                            </a>
+
+                        </li>
+                        <li class="nav-item">
+                            <a href="Default.html" data-toggle="tooltip">
+                                <p>
+                                    <i class="fa fa-home nav-icon">
+                                    </i>&nbsp;Home
+                                </p>
+                            </a>
+                        </li>
+
+
+
+
+
+                    </ul>
+                </nav>
+            </div>
+            <!-- /.sidebar -->
+        </aside>
+        <!-- Contains page content -->
+        <div>
+
+
+            <div class="content-wrapper">
+                <section class="content-header">
+                    <div class="container-fluid mt-5">
+                    </div>
+                </section>
+                <section class="content">
+                    <div class="container-fluid">
+
+                        <div id="portlet-config" class="modal hide">
+                            <div class="modal-header">
+                                <button data-dismiss="modal" class="close" type="button">
+                                </button>
+                                <h3>portlet Settings</h3>
+                            </div>
+                            <div class="modal-body">
+                                <p>
+                                    Here will be a configuration form
+                                </p>
+                            </div>
+                        </div>
+
+
+
+
+
+                        <div class="card card-info card-outline elevation-2">
+                            <div class="card-header elevation-1" style="text-align: center">
+                                <small style="font-size: larger; font-weight: 600">T.E.(2019 CREDIT PAT.) DEC-JAN
+                                    2023</small>
+                                <div class="card-tools">
+                                    <button type="button" class="btn btn-tool" data-widget="collapse"><i
+                                            class="fa fa-minus"></i></button>
+                                </div>
+                            </div>
+                            <form EncType="multipart/form-data" action="chutiya.html" method="get">
+                                <div class="card-body">
+
+
+                                    <div class="col-md-12" style="text-align:center">
+                                        <div class="row">
+
+
+                                            <div class="col-md-3" style="text-align:center">
+                                                <div class="form-group">
+                                                    <label class="control-label">
+                                                        <storng>Enter Seat No</storng>
+                                                    </label>
+                                                    <input class="form-control" id="PatternID" name="PatternID"
+                                                        type="hidden" value="WIXRFIegxSLsCOR6DwCsIg==" />
+                                                    <input class="form-control" id="PatternName" name="PatternName"
+                                                        type="hidden"
+                                                        value="4TCfMwGsWxEmjyywaHIAWF1RDY416NiYNq2GynAEUprZ3e2+PcjzN9zQftDhMhOD" />
+                                                </div>
+
+                                            </div>
+                                            <div class="col-md-3" style="text-align:center">
+                                                <div class="form-group">
+                                                    <input class="form-control" data-val="true"
+                                                        data-val-required="Please Enter Seat No." id="SeatNo"
+                                                        name="SeatNo" type="text" value="" />
+                                                    <span class="field-validation-valid text-danger"
+                                                        data-valmsg-for="SeatNo" data-valmsg-replace="true"></span>
+
+
+
+                                                </div>
+                                            </div>
+
+
+                                            <div class="col-md-3" style="text-align:center">
+                                                <div class="form-group">
+                                                    <label class="control-label">
+                                                        <storng>Enter Mother Name</storng>
+                                                    </label>
+                                                </div>
+
+                                            </div>
+                                            <div class="col-md-3" style="text-align:left">
+                                                <div class="form-group">
+                                                    <input class="form-control" data-val="true"
+                                                        data-val-required="Please Enter Mother Name." id="MotherName"
+                                                        name="MotherName" type="text" value="" />
+                                                    <span class="field-validation-valid text-danger"
+                                                        data-valmsg-for="MotherName" data-valmsg-replace="true"></span>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <div class="form-group" style="text-align:center">
+                                            <span style="text-align:center">
+
+                                                <input type="submit" value="Check Result" id="btn"
+                                                    class="btn btn-outline-info btn-lg elevation-2"
+                                                    style=" margin-left: 5px;" />
+                                            </span>
+                                        </div>
+                                    </div>
+
+                                    <div style="text-align:center" class="col-md-12">
+                                        <h5 style="text-align:center; color:darkcyan"> </h5>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+
+                </section>
+
+
+            </div>
+
+
+
+
+        </div>
+        <!-- /.content-wrapper -->
+        <footer class="main-footer">
+            <span style="font-weight: 600">Copyright &copy; 2023 Savitribai Phule Pune University. All rights
+                reserved.</span>
+        </footer>
+    </div>
+    <!-- ./wrapper -->
+    <script src="https://onlineresults.unipune.ac.in/Content/Scripts/alertify.min.js"></script>
+    <script src="https://onlineresults.unipune.ac.in/Content/plugins/iCheck/icheck.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</body>
+
+<!-- Mirrored from onlineresults.unipune.ac.in/Result/Dashboard/ViewResult?PatternName=4TCfMwGsWxEmjyywaHIAWF1RDY416NiYNq2GynAEUprZ3e2%2BPcjzN9zQftDhMhOD&PatternId=WIXRFIegxSLsCOR6DwCsIg%3D%3D by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 14 Mar 2023 16:30:11 GMT -->
+
+</html>
